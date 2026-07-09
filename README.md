@@ -1,2 +1,2 @@
 # git-and-github
-Practice session
+Firt go for Practice session.
